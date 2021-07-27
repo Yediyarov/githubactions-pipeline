@@ -1,0 +1,1 @@
+web: gunicorn Github_Actions_Pipeline.wsgi
